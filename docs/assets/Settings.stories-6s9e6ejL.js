@@ -1,0 +1,8 @@
+import{i as l,j as s}from"./createTheme-BLV71W9B.js";import{r as i}from"./createSvgIcon-DW6DFRsn.js";import{R as m}from"./basics-8Qn8XNaG.js";import{s as p}from"./DefaultPropsProvider-BMD7a7hs.js";import"./extends-CF3RwP-h.js";import"./index-CTjT7uj6.js";import"./createSvgIcon-CFLYitJ1.js";import"./SvgIcon-DGwFtjWv.js";import"./useIsFocusVisible-DWsEnodg.js";var t={},u=l;Object.defineProperty(t,"__esModule",{value:!0});var c=t.default=void 0,d=u(i()),f=s;c=t.default=(0,d.default)((0,f.jsx)("path",{d:"M19.14 12.94c.04-.3.06-.61.06-.94 0-.32-.02-.64-.07-.94l2.03-1.58c.18-.14.23-.41.12-.61l-1.92-3.32c-.12-.22-.37-.29-.59-.22l-2.39.96c-.5-.38-1.03-.7-1.62-.94l-.36-2.54c-.04-.24-.24-.41-.48-.41h-3.84c-.24 0-.43.17-.47.41l-.36 2.54c-.59.24-1.13.57-1.62.94l-2.39-.96c-.22-.08-.47 0-.59.22L2.74 8.87c-.12.21-.08.47.12.61l2.03 1.58c-.05.3-.09.63-.09.94s.02.64.07.94l-2.03 1.58c-.18.14-.23.41-.12.61l1.92 3.32c.12.22.37.29.59.22l2.39-.96c.5.38 1.03.7 1.62.94l.36 2.54c.05.24.24.41.48.41h3.84c.24 0 .44-.17.47-.41l.36-2.54c.59-.24 1.13-.56 1.62-.94l2.39.96c.22.08.47 0 .59-.22l1.92-3.32c.12-.22.07-.47-.12-.61zM12 15.6c-1.98 0-3.6-1.62-3.6-3.6s1.62-3.6 3.6-3.6 3.6 1.62 3.6 3.6-1.62 3.6-3.6 3.6"}),"Settings");const n=p(c)({"&:hover":{animation:`${m()} 1s ease-in-out backwards 1`}}),q={component:n,tags:["autodocs"]},e={render:()=>s.jsx(n,{}),parameters:{controls:{exclude:/.*/g}}};var r,a,o;e.parameters={...e.parameters,docs:{...(r=e.parameters)==null?void 0:r.docs,source:{originalSource:`{
+  render: () => <AnimatedSettings />,
+  parameters: {
+    controls: {
+      exclude: /.*/g
+    }
+  }
+}`,...(o=(a=e.parameters)==null?void 0:a.docs)==null?void 0:o.source}}};const E=["Default"];export{e as Default,E as __namedExportsOrder,q as default};
