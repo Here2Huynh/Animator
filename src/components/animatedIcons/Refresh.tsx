@@ -4,6 +4,6 @@ import { Rotate } from "../lib/styles/basics";
 
 export const AnimatedRefresh: React.FC<SvgIconProps> = styled(RefreshIcon)({
   "&:hover": {
-    animation: `${Rotate} 1s 1`,
+    animation: `${Rotate()} 1s 1`,
   },
 });
